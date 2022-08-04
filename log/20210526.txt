@@ -1,0 +1,9 @@
+[2021-05-26 10:05:41 617]:plc is destruct
+[2021-05-26 10:15:28 803]:plc is destruct
+[2021-05-26 10:16:55 285]:plc is destruct
+[2021-05-26 10:18:47 202]:plc is destruct
+[2021-05-26 10:19:25 981]:plc is destruct
+[2021-05-26 10:21:26 469]:plc is destruct
+[2021-05-26 11:04:02 879]:plc is destruct
+[2021-05-26 11:05:16 708]:plc is destruct
+[2021-05-26 11:05:36 583]:plc is destruct

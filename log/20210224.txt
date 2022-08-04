@@ -1,0 +1,30 @@
+[2021-02-24 09:27:00 134]:OpenSerialPort
+[2021-02-24 09:27:00 149]:serialPort open failed!
+[2021-02-24 09:27:03 079]:Qt_GC_VI_Mosquito is Start!!!
+[2021-02-24 09:27:09 918]:plc is destruct
+[2021-02-24 09:28:31 763]:OpenSerialPort
+[2021-02-24 09:28:31 765]:serialPort open failed!
+[2021-02-24 09:28:37 317]:Qt_GC_VI_Mosquito is Start!!!
+[2021-02-24 09:28:39 455]:plc is destruct
+[2021-02-24 09:28:41 308]:OpenSerialPort
+[2021-02-24 09:28:41 312]:serialPort open failed!
+[2021-02-24 09:28:42 912]:Qt_GC_VI_Mosquito is Start!!!
+[2021-02-24 09:28:44 937]:plc is destruct
+[2021-02-24 09:30:35 998]:OpenSerialPort
+[2021-02-24 09:30:36 000]:serialPort open failed!
+[2021-02-24 09:30:37 399]:Qt_GC_VI_Mosquito is Start!!!
+[2021-02-24 09:30:38 771]:plc is destruct
+[2021-02-24 09:33:13 682]:OpenSerialPort
+[2021-02-24 09:33:13 684]:serialPort open failed!
+[2021-02-24 09:33:15 063]:Qt_GC_VI_Mosquito is Start!!!
+[2021-02-24 09:33:17 531]:plc is destruct
+[2021-02-24 09:34:26 983]:OpenSerialPort
+[2021-02-24 09:34:26 983]:serialPort open failed!
+[2021-02-24 09:34:28 222]:Qt_GC_VI_Mosquito is Start!!!
+[2021-02-24 09:34:59 195]:OpenSerialPort
+[2021-02-24 09:34:59 206]:serialPort open failed!
+[2021-02-24 09:35:00 534]:Qt_GC_VI_Mosquito is Start!!!
+[2021-02-24 10:53:53 370]:OpenSerialPort
+[2021-02-24 10:53:53 379]:serialPort open failed!
+[2021-02-24 10:53:55 236]:Qt_GC_VI_Mosquito is Start!!!
+[2021-02-24 10:54:00 088]:plc is destruct
